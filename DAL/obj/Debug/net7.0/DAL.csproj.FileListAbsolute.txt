@@ -1,0 +1,12 @@
+/Users/Rajitha/Downloads/test-project-1/DAL/bin/Debug/net7.0/DAL.deps.json
+/Users/Rajitha/Downloads/test-project-1/DAL/bin/Debug/net7.0/DAL.dll
+/Users/Rajitha/Downloads/test-project-1/DAL/bin/Debug/net7.0/DAL.pdb
+/Users/Rajitha/Downloads/test-project-1/DAL/obj/Debug/net7.0/DAL.csproj.AssemblyReference.cache
+/Users/Rajitha/Downloads/test-project-1/DAL/obj/Debug/net7.0/DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Rajitha/Downloads/test-project-1/DAL/obj/Debug/net7.0/DAL.AssemblyInfoInputs.cache
+/Users/Rajitha/Downloads/test-project-1/DAL/obj/Debug/net7.0/DAL.AssemblyInfo.cs
+/Users/Rajitha/Downloads/test-project-1/DAL/obj/Debug/net7.0/DAL.csproj.CoreCompileInputs.cache
+/Users/Rajitha/Downloads/test-project-1/DAL/obj/Debug/net7.0/DAL.dll
+/Users/Rajitha/Downloads/test-project-1/DAL/obj/Debug/net7.0/refint/DAL.dll
+/Users/Rajitha/Downloads/test-project-1/DAL/obj/Debug/net7.0/DAL.pdb
+/Users/Rajitha/Downloads/test-project-1/DAL/obj/Debug/net7.0/ref/DAL.dll

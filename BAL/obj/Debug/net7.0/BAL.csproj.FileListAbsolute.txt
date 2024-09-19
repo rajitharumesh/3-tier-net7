@@ -1,0 +1,15 @@
+/Users/Rajitha/Downloads/test-project-1/BAL/bin/Debug/net7.0/BAL.deps.json
+/Users/Rajitha/Downloads/test-project-1/BAL/bin/Debug/net7.0/BAL.dll
+/Users/Rajitha/Downloads/test-project-1/BAL/bin/Debug/net7.0/BAL.pdb
+/Users/Rajitha/Downloads/test-project-1/BAL/bin/Debug/net7.0/DAL.dll
+/Users/Rajitha/Downloads/test-project-1/BAL/bin/Debug/net7.0/DAL.pdb
+/Users/Rajitha/Downloads/test-project-1/BAL/obj/Debug/net7.0/BAL.csproj.AssemblyReference.cache
+/Users/Rajitha/Downloads/test-project-1/BAL/obj/Debug/net7.0/BAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Rajitha/Downloads/test-project-1/BAL/obj/Debug/net7.0/BAL.AssemblyInfoInputs.cache
+/Users/Rajitha/Downloads/test-project-1/BAL/obj/Debug/net7.0/BAL.AssemblyInfo.cs
+/Users/Rajitha/Downloads/test-project-1/BAL/obj/Debug/net7.0/BAL.csproj.CoreCompileInputs.cache
+/Users/Rajitha/Downloads/test-project-1/BAL/obj/Debug/net7.0/BAL.csproj.CopyComplete
+/Users/Rajitha/Downloads/test-project-1/BAL/obj/Debug/net7.0/BAL.dll
+/Users/Rajitha/Downloads/test-project-1/BAL/obj/Debug/net7.0/refint/BAL.dll
+/Users/Rajitha/Downloads/test-project-1/BAL/obj/Debug/net7.0/BAL.pdb
+/Users/Rajitha/Downloads/test-project-1/BAL/obj/Debug/net7.0/ref/BAL.dll
