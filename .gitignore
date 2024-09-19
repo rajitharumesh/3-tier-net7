@@ -1,0 +1,23 @@
+﻿# Ignore build directories
+bin/
+obj/
+
+# Ignore NuGet packages
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+
+# Ignore Visual Studio temporary files
+*.user
+*.suo
+*.rsuser
+*.vscode/
+
+# Ignore log files
+*.log
+
+# Ignore Mac-specific files
+.DS_Store
+
+# Ignore Application Insights config
+ApplicationInsights.config
