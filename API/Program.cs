@@ -8,9 +8,24 @@ using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+
 // Register the DbContext
+
+// builder.Services.AddDbContext<TestDBContext>(options =>
+// options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+// Add DbContext with PostgreSQL configuration
+// builder.Services.AddDbContext<TestDBContext>(options =>
+//    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
+
 builder.Services.AddDbContext<TestDBContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseNpgsql(
+        builder.Configuration.GetConnectionString("DefaultConnection"),
+        b => b.MigrationsAssembly("DAL")  // Specify the migrations assembly
+    )
+);
+
+
 
 // Register repositories with DI
 builder.Services.AddScoped<IRepository<Product>, ProductRepository>();
