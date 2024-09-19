@@ -1,23 +1,47 @@
-﻿# Ignore build directories
+﻿# .NET build output
 bin/
 obj/
+out/
 
-# Ignore NuGet packages
-*.nupkg
-project.lock.json
-project.fragment.lock.json
-
-# Ignore Visual Studio temporary files
+# User-specific files
 *.user
 *.suo
-*.rsuser
-*.vscode/
+*.userosscache
+*.sln.docstates
+*.ncrunch*
+*.lock.json
+*.csproj.user
 
-# Ignore log files
+# Log files
 *.log
 
-# Ignore Mac-specific files
-.DS_Store
+# IDE-specific files
+.idea/
+.vscode/
 
-# Ignore Application Insights config
+# Visual Studio Code settings
+.vscode/
+
+# Rider IDE
+.idea/
+
+# Application Insights
 ApplicationInsights.config
+
+# NuGet packages
+*.nupkg
+*.snupkg
+
+# Node modules (if using Node.js for some parts of the app)
+node_modules/
+
+# Exclude database files
+*.mdf
+*.ldf
+
+# Exclude coverage files
+coverage/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
